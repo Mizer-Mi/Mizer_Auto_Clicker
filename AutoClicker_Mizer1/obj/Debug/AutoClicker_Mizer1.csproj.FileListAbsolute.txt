@@ -1,0 +1,11 @@
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.Form1.resources
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.Properties.Resources.resources
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.csproj.GenerateResource.cache
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\bin\Debug\AutoClicker_Mizer1.exe.config
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\bin\Debug\AutoClicker_Mizer1.exe
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\bin\Debug\AutoClicker_Mizer1.pdb
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.exe
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.pdb
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.csprojAssemblyReference.cache
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.Ayarlar_Mizer.resources
+C:\Users\mucah\source\repos\AutoClicker_Mizer1\AutoClicker_Mizer1\obj\Debug\AutoClicker_Mizer1.csproj.CoreCompileInputs.cache

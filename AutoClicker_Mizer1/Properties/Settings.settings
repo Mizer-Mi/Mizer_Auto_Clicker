@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoClicker_Mizer1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="D_Hangi_Tus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sol Tık</Value>
+    </Setting>
+    <Setting Name="D_MS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="D_Baslatma" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">F3</Value>
+    </Setting>
+    <Setting Name="D_Kapatma" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">F4</Value>
+    </Setting>
+    <Setting Name="D_Etkin_Devre" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">End</Value>
+    </Setting>
+    <Setting Name="D_Arka_Plan" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Copyright_Mizer_2020" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Copyright_Mizer_2020</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
